@@ -1,0 +1,15 @@
+body {
+  font-family: "Noto Serif TC", serif;
+}
+
+.bg1 {
+  background-image: url("./images/background_img_1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.bg-gray {
+  background-color: rgba(112, 128, 144, 0.75);
+}
